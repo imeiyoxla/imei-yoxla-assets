@@ -1,0 +1,33 @@
+name: Generate Index
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Index JSON
+        run: |
+          python3 -c "
+          import os, json
+          folders = ['isp', 'rsa', 'testpoint']
+          data = []
+          for f in folders:
+            if os.path.exists(f):
+              for file in os.listdir(f):
+                if file.lower().endswith(('.jpg', '.png', '.webp', '.jpeg')):
+                  data.append({'folder': f, 'filename': file, 'name': os.path.splitext(file)[0]})
+          with open('index.json', 'w') as j:
+            json.dump(data, j, indent=2)
+          "
+      - name: Commit and push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add index.json
+          git commit -m 'Update index.json' || exit 0
+          git push
