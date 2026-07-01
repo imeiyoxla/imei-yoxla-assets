@@ -1,4 +1,5 @@
 name: Generate Index
+
 on:
   push:
     branches: [ main ]
@@ -6,28 +7,58 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate Index JSON
         run: |
-          python3 -c "
-          import os, json
-          folders = ['isp', 'rsa', 'testpoint']
+          python3 - <<'EOF'
+          import os
+          import json
+
+          folders = ["isp", "rsa", "testpoint"]
           data = []
-          for f in folders:
-            if os.path.exists(f):
-              for file in os.listdir(f):
-                if file.lower().endswith(('.jpg', '.png', '.webp', '.jpeg')):
-                  data.append({'folder': f, 'filename': file, 'name': os.path.splitext(file)[0]})
-          with open('index.json', 'w') as j:
-            json.dump(data, j, indent=2)
-          "
-      - name: Commit and push
+
+          for folder in folders:
+              if not os.path.exists(folder):
+                  continue
+
+              for file in os.listdir(folder):
+
+                  if not file.lower().endswith((".jpg",".jpeg",".png",".webp")):
+                      continue
+
+                  name = os.path.splitext(file)[0]
+
+                  parts = [x.strip() for x in name.split("|") if x.strip()]
+
+                  title = parts[0]
+
+                  keywords = []
+
+                  for p in parts:
+                      keywords.append(p.lower())
+
+                  data.append({
+                      "folder": folder,
+                      "filename": file,
+                      "name": title,
+                      "keywords": keywords
+                  })
+
+          with open("index.json","w",encoding="utf8") as f:
+              json.dump(data,f,ensure_ascii=False,indent=2)
+          EOF
+
+      - name: Commit
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
           git add index.json
-          git commit -m 'Update index.json' || exit 0
+          git commit -m "Update index.json" || exit 0
           git push
