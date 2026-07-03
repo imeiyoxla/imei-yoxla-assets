@@ -2,7 +2,8 @@ name: Generate Index
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   build:
@@ -12,11 +13,12 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Index JSON
+      - name: Generate index.json
         run: |
-          python3 - <<'EOF'
+          python3 << 'EOF'
           import os
           import json
 
@@ -29,36 +31,46 @@ jobs:
 
               for file in os.listdir(folder):
 
-                  if not file.lower().endswith((".jpg",".jpeg",".png",".webp")):
+                  if not file.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
                       continue
 
-                  name = os.path.splitext(file)[0]
+                  filename = os.path.splitext(file)[0]
 
-                  parts = [x.strip() for x in name.split("_") if x.strip()]
+                  parts = filename.split("__")
 
-                  title = parts[0]
+                  brand = parts[0].strip() if len(parts) > 0 else ""
+                  model = parts[1].strip() if len(parts) > 1 else ""
+                  code = parts[2].strip() if len(parts) > 2 else ""
 
-                  keywords = []
-
-                  for p in parts:
-                      keywords.append(p.lower())
+                  keywords = [
+                      brand.lower(),
+                      model.lower(),
+                      code.lower(),
+                      f"{brand} {model}".lower(),
+                      f"{model} {code}".lower()
+                  ]
 
                   data.append({
                       "folder": folder,
                       "filename": file,
-                      "name": title,
-                      "keywords": keywords
+                      "brand": brand,
+                      "model": model,
+                      "code": code,
+                      "keywords": list(set(filter(None, keywords)))
                   })
 
-          with open("index.json","w",encoding="utf8") as f:
-              json.dump(data,f,ensure_ascii=False,indent=2)
+          with open("index.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, indent=2, ensure_ascii=False)
+
           EOF
 
-      - name: Commit
+      - name: Commit index.json
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
           git add index.json
-          git commit -m "Update index.json" || exit 0
+
+          git diff --cached --quiet || git commit -m "Update index.json"
+
           git push
