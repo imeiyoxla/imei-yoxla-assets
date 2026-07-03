@@ -154,9 +154,11 @@
   {
     "folder": "testpoint",
     "filename": "Samsung a13_a13_A135F.webp",
-    "name": "Samsung a13_a13_A135F",
+    "name": "Samsung a13",
     "keywords": [
-      "samsung a13_a13_a135f"
+      "samsung a13",
+      "a13",
+      "a135f"
     ]
   },
   {
@@ -202,9 +204,10 @@
   {
     "folder": "testpoint",
     "filename": "Samsung A54_A546B.jpg",
-    "name": "Samsung A54_A546B",
+    "name": "Samsung A54",
     "keywords": [
-      "samsung a54_a546b"
+      "samsung a54",
+      "a546b"
     ]
   },
   {
@@ -234,9 +237,10 @@
   {
     "folder": "testpoint",
     "filename": "Oppo A54_cph2239.jpg",
-    "name": "Oppo A54_cph2239",
+    "name": "Oppo A54",
     "keywords": [
-      "oppo a54_cph2239"
+      "oppo a54",
+      "cph2239"
     ]
   }
 ]
