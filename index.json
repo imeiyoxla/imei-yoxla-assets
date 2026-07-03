@@ -6,9 +6,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "alin-nx1 ",
       " ",
-      "alin-nx1"
+      "alin-nx1",
+      "alin-nx1 "
     ]
   },
   {
@@ -18,8 +18,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      " ",
       "pd2421f",
+      " ",
       "pd2421f "
     ]
   },
@@ -30,9 +30,9 @@
     "model": "",
     "code": "",
     "keywords": [
+      "a127f ",
       "a127f",
-      " ",
-      "a127f "
+      " "
     ]
   },
   {
@@ -42,8 +42,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "pd2465",
       "pd2465 ",
+      "pd2465",
       " "
     ]
   },
@@ -54,8 +54,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "rmx5250",
       "rmx5250 ",
+      "rmx5250",
       " "
     ]
   },
@@ -78,9 +78,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      " ",
       "pd2280",
-      "pd2280 "
+      "pd2280 ",
+      " "
     ]
   },
   {
@@ -90,9 +90,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "a065f",
       "a065f ",
-      " "
+      " ",
+      "a065f"
     ]
   },
   {
@@ -102,9 +102,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "s901n",
+      "s901n ",
       " ",
-      "s901n "
+      "s901n"
     ]
   },
   {
@@ -115,8 +115,8 @@
     "code": "",
     "keywords": [
       "abr-lx1",
-      "abr-lx1 ",
-      " "
+      " ",
+      "abr-lx1 "
     ]
   },
   {
@@ -126,9 +126,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "cph2727",
+      " ",
       "cph2727 ",
-      " "
+      "cph2727"
     ]
   },
   {
@@ -139,8 +139,8 @@
     "code": "",
     "keywords": [
       "cph2693",
-      "cph2693 ",
-      " "
+      " ",
+      "cph2693 "
     ]
   },
   {
@@ -150,9 +150,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "a135f",
+      "a135f ",
       " ",
-      "a135f "
+      "a135f"
     ]
   },
   {
@@ -163,8 +163,8 @@
     "code": "",
     "keywords": [
       "s946b ",
-      " ",
-      "s946b"
+      "s946b",
+      " "
     ]
   },
   {
@@ -175,8 +175,8 @@
     "code": "",
     "keywords": [
       "s926u ",
-      "s926u",
-      " "
+      " ",
+      "s926u"
     ]
   },
   {
@@ -186,9 +186,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "nova 13",
       "nova 13 ",
-      " "
+      " ",
+      "nova 13"
     ]
   },
   {
@@ -198,9 +198,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "spes ",
+      "spes",
       " ",
-      "spes"
+      "spes "
     ]
   },
   {
@@ -210,9 +210,23 @@
     "model": "",
     "code": "",
     "keywords": [
-      " ",
       "pd2422f ",
+      " ",
       "pd2422f"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Oppo__A78 5G__CPH2495.jpg",
+    "brand": "Oppo",
+    "model": "A78 5G",
+    "code": "CPH2495",
+    "keywords": [
+      "a78 5g cph2495",
+      "a78 5g",
+      "oppo",
+      "oppo a78 5g",
+      "cph2495"
     ]
   },
   {
@@ -222,9 +236,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "ginkgo",
+      "ginkgo ",
       " ",
-      "ginkgo "
+      "ginkgo"
     ]
   },
   {
@@ -237,8 +251,8 @@
       "samsung a54",
       "a546b",
       "samsung",
-      "a54",
-      "a54 a546b"
+      "a54 a546b",
+      "a54"
     ]
   },
   {
@@ -260,9 +274,9 @@
     "model": "",
     "code": "",
     "keywords": [
+      "mojito",
       "mojito ",
-      " ",
-      "mojito"
+      " "
     ]
   },
   {
@@ -273,8 +287,8 @@
     "code": "",
     "keywords": [
       "xt2421-14 ",
-      "xt2421-14",
-      " "
+      " ",
+      "xt2421-14"
     ]
   },
   {
@@ -284,9 +298,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "cph2387",
+      " ",
       "cph2387 ",
-      " "
+      "cph2387"
     ]
   },
   {
@@ -296,11 +310,11 @@
     "model": "A13",
     "code": "A135F",
     "keywords": [
-      "a135f",
-      "a13",
       "a13 a135f",
       "samsung a13",
-      "samsung"
+      "a13",
+      "samsung",
+      "a135f"
     ]
   },
   {
@@ -310,11 +324,11 @@
     "model": "A77",
     "code": "CPH2385",
     "keywords": [
-      "oppo",
       "a77 cph2385",
+      "oppo a77",
+      "oppo",
       "cph2385",
-      "a77",
-      "oppo a77"
+      "a77"
     ]
   },
   {
@@ -324,21 +338,9 @@
     "model": "",
     "code": "",
     "keywords": [
+      "a325f",
       " ",
-      "a325f ",
-      "a325f"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "CPH2495.jpg",
-    "brand": "CPH2495",
-    "model": "",
-    "code": "",
-    "keywords": [
-      " ",
-      "cph2495",
-      "cph2495 "
+      "a325f "
     ]
   },
   {
@@ -348,9 +350,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "cph2481",
+      "cph2481 ",
       " ",
-      "cph2481 "
+      "cph2481"
     ]
   },
   {
@@ -360,11 +362,11 @@
     "model": "A54",
     "code": "CPH2239",
     "keywords": [
-      "cph2239",
-      "oppo",
       "a54 cph2239",
+      "oppo",
+      "a54",
       "oppo a54",
-      "a54"
+      "cph2239"
     ]
   },
   {
