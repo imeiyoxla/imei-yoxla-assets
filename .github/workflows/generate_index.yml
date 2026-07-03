@@ -34,7 +34,7 @@ jobs:
 
                   name = os.path.splitext(file)[0]
 
-                  parts = [x.strip() for x in name.split("|") if x.strip()]
+                  parts = [x.strip() for x in name.split("_") if x.strip()]
 
                   title = parts[0]
 
