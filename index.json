@@ -6,9 +6,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      " ",
       "pd2421f ",
-      "pd2421f"
+      "pd2421f",
+      " "
     ]
   },
   {
@@ -18,11 +18,11 @@
     "model": "A12",
     "code": "A127F",
     "keywords": [
-      "samsung a12",
-      "a127f",
-      "a12",
       "a12 a127f",
-      "samsung"
+      "samsung a12",
+      "samsung",
+      "a12",
+      "a127f"
     ]
   },
   {
@@ -33,8 +33,8 @@
     "code": "",
     "keywords": [
       " ",
-      "pd2465 ",
-      "pd2465"
+      "pd2465",
+      "pd2465 "
     ]
   },
   {
@@ -44,9 +44,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "rmx5250",
       "rmx5250 ",
-      " "
+      " ",
+      "rmx5250"
     ]
   },
   {
@@ -57,20 +57,8 @@
     "code": "",
     "keywords": [
       " ",
-      "mt6789v ",
-      "mt6789v"
-    ]
-  },
-  {
-    "folder": "isp",
-    "filename": "PD2280.jpg",
-    "brand": "PD2280",
-    "model": "",
-    "code": "",
-    "keywords": [
-      " ",
-      "pd2280",
-      "pd2280 "
+      "mt6789v",
+      "mt6789v "
     ]
   },
   {
@@ -80,8 +68,8 @@
     "model": "X8d",
     "code": "ABR-LX1",
     "keywords": [
-      "x8d abr-lx1",
       "honor x8d",
+      "x8d abr-lx1",
       "honor",
       "x8d",
       "abr-lx1"
@@ -94,9 +82,9 @@
     "model": "NOVA 13",
     "code": "",
     "keywords": [
-      "huawei",
       "nova 13",
       "nova 13 ",
+      "huawei",
       "huawei nova 13"
     ]
   },
@@ -108,10 +96,10 @@
     "code": "CPH2727",
     "keywords": [
       "a5 4g",
-      "oppo",
-      "a5 4g cph2727",
       "cph2727",
-      "oppo a5 4g"
+      "a5 4g cph2727",
+      "oppo a5 4g",
+      "oppo"
     ]
   },
   {
@@ -121,11 +109,25 @@
     "model": "A5 5G",
     "code": "CPH2693",
     "keywords": [
-      "cph2693",
-      "oppo",
       "a5 5g",
+      "a5 5g cph2693",
+      "oppo",
       "oppo a5 5g",
-      "a5 5g cph2693"
+      "cph2693"
+    ]
+  },
+  {
+    "folder": "isp",
+    "filename": "Vivo__Y36 4G__PD2280.jpg",
+    "brand": "Vivo",
+    "model": "Y36 4G",
+    "code": "PD2280",
+    "keywords": [
+      "pd2280",
+      "vivo y36 4g",
+      "y36 4g",
+      "y36 4g pd2280",
+      "vivo"
     ]
   },
   {
@@ -135,9 +137,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "s901n",
       "s901n ",
-      " "
+      " ",
+      "s901n"
     ]
   },
   {
@@ -147,11 +149,11 @@
     "model": "A06",
     "code": "A065F",
     "keywords": [
-      "a06 a065f",
+      "samsung",
+      "samsung a06",
       "a065f",
       "a06",
-      "samsung",
-      "samsung a06"
+      "a06 a065f"
     ]
   },
   {
@@ -162,8 +164,8 @@
     "code": "ALIN-NX1",
     "keywords": [
       "alin-nx1",
-      "honor",
       "x9b alin-nx1",
+      "honor",
       "honor x9b",
       "x9b"
     ]
@@ -175,9 +177,9 @@
     "model": "",
     "code": "",
     "keywords": [
+      "a135f",
       " ",
-      "a135f ",
-      "a135f"
+      "a135f "
     ]
   },
   {
@@ -187,8 +189,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      " ",
       "s946b",
+      " ",
       "s946b "
     ]
   },
@@ -199,8 +201,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      " ",
       "s926u ",
+      " ",
       "s926u"
     ]
   },
@@ -211,11 +213,11 @@
     "model": "Note 11",
     "code": "Spes&Spesn",
     "keywords": [
-      "note 11 spes&spesn",
+      "note 11",
+      "redmi note 11",
       "redmi",
       "spes&spesn",
-      "note 11",
-      "redmi note 11"
+      "note 11 spes&spesn"
     ]
   },
   {
@@ -227,9 +229,9 @@
     "keywords": [
       "note 13 pro 5g",
       "garnet",
+      "note 13 pro 5g garnet",
       "redmi note 13 pro 5g",
-      "redmi",
-      "note 13 pro 5g garnet"
+      "redmi"
     ]
   },
   {
@@ -240,10 +242,10 @@
     "code": "CPH2495",
     "keywords": [
       "a78 5g cph2495",
-      "oppo",
       "oppo a78 5g",
       "cph2495",
-      "a78 5g"
+      "a78 5g",
+      "oppo"
     ]
   },
   {
@@ -253,10 +255,10 @@
     "model": "Y300 Plus",
     "code": "PD2422F",
     "keywords": [
-      "vivo y300 plus",
       "y300 plus pd2422f",
       "y300 plus",
       "pd2422f",
+      "vivo y300 plus",
       "vivo"
     ]
   },
@@ -267,11 +269,11 @@
     "model": "A54",
     "code": "A546B",
     "keywords": [
-      "a54 a546b",
+      "a54",
       "samsung a54",
-      "a546b",
       "samsung",
-      "a54"
+      "a54 a546b",
+      "a546b"
     ]
   },
   {
@@ -282,10 +284,10 @@
     "code": "A125F",
     "keywords": [
       "samsung a12",
-      "a12",
       "samsung",
       "a125f",
-      "a12 a125f"
+      "a12 a125f",
+      "a12"
     ]
   },
   {
@@ -296,10 +298,10 @@
     "code": "CPH2387",
     "keywords": [
       "oppo a57",
-      "cph2387",
-      "oppo",
       "a57",
-      "a57 cph2387"
+      "cph2387",
+      "a57 cph2387",
+      "oppo"
     ]
   },
   {
@@ -309,11 +311,11 @@
     "model": "A13",
     "code": "A135F",
     "keywords": [
-      "samsung a13",
+      "a13 a135f",
+      "samsung",
       "a13",
       "a135f",
-      "a13 a135f",
-      "samsung"
+      "samsung a13"
     ]
   },
   {
@@ -324,10 +326,10 @@
     "code": "A325F",
     "keywords": [
       "samsung a32",
-      "a32 a325f",
       "samsung",
+      "a325f",
       "a32",
-      "a325f"
+      "a32 a325f"
     ]
   },
   {
@@ -337,11 +339,11 @@
     "model": "A77",
     "code": "CPH2385",
     "keywords": [
-      "oppo",
       "a77",
+      "oppo",
       "cph2385",
-      "oppo a77",
-      "a77 cph2385"
+      "a77 cph2385",
+      "oppo a77"
     ]
   },
   {
@@ -351,10 +353,10 @@
     "model": "Moto G04",
     "code": "XT2421",
     "keywords": [
-      "motorola",
       "motorola moto g04",
-      "moto g04",
       "xt2421",
+      "moto g04",
+      "motorola",
       "moto g04 xt2421"
     ]
   },
@@ -365,11 +367,11 @@
     "model": "Reno8 T 4G",
     "code": "CPH2481",
     "keywords": [
-      "oppo",
-      "oppo reno8 t 4g",
       "reno8 t 4g",
+      "reno8 t 4g cph2481",
+      "oppo reno8 t 4g",
       "cph2481",
-      "reno8 t 4g cph2481"
+      "oppo"
     ]
   },
   {
@@ -382,8 +384,8 @@
       "note 10",
       "mojito",
       "note 10 mojito",
-      "redmi note 10",
-      "redmi"
+      "redmi",
+      "redmi note 10"
     ]
   },
   {
@@ -393,11 +395,11 @@
     "model": "Note 8",
     "code": "Ginkgo",
     "keywords": [
-      "redmi note 8",
       "note 8 ginkgo",
+      "redmi note 8",
       "ginkgo",
-      "note 8",
-      "redmi"
+      "redmi",
+      "note 8"
     ]
   },
   {
@@ -407,11 +409,11 @@
     "model": "A54",
     "code": "CPH2239",
     "keywords": [
-      "oppo",
+      "a54",
+      "oppo a54",
       "cph2239",
       "a54 cph2239",
-      "oppo a54",
-      "a54"
+      "oppo"
     ]
   }
 ]
