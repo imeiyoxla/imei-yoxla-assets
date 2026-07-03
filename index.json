@@ -6,8 +6,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "alin-nx1 ",
       "alin-nx1",
+      "alin-nx1 ",
       " "
     ]
   },
@@ -18,8 +18,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "pd2421f",
       "pd2421f ",
+      "pd2421f",
       " "
     ]
   },
@@ -30,8 +30,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "a127f",
       "a127f ",
+      "a127f",
       " "
     ]
   },
@@ -42,9 +42,9 @@
     "model": "",
     "code": "",
     "keywords": [
+      " ",
       "pd2465",
-      "pd2465 ",
-      " "
+      "pd2465 "
     ]
   },
   {
@@ -66,8 +66,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "mt6789v",
       "mt6789v ",
+      "mt6789v",
       " "
     ]
   },
@@ -90,8 +90,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "a065f ",
       "a065f",
+      "a065f ",
       " "
     ]
   },
@@ -102,9 +102,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "s901n ",
+      " ",
       "s901n",
-      " "
+      "s901n "
     ]
   },
   {
@@ -138,8 +138,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "cph2693 ",
       "cph2693",
+      "cph2693 ",
       " "
     ]
   },
@@ -150,9 +150,9 @@
     "model": "",
     "code": "",
     "keywords": [
+      "a135f ",
       "a135f",
-      " ",
-      "a135f "
+      " "
     ]
   },
   {
@@ -198,8 +198,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "spes ",
       "spes",
+      "spes ",
       " "
     ]
   },
@@ -222,9 +222,9 @@
     "model": "A78 5G",
     "code": "CPH2495",
     "keywords": [
-      "oppo",
       "a78 5g",
       "oppo a78 5g",
+      "oppo",
       "cph2495",
       "a78 5g cph2495"
     ]
@@ -236,8 +236,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "ginkgo",
       "ginkgo ",
+      "ginkgo",
       " "
     ]
   },
@@ -248,11 +248,11 @@
     "model": "A54",
     "code": "A546B",
     "keywords": [
-      "a54",
       "a546b",
       "a54 a546b",
-      "samsung",
-      "samsung a54"
+      "a54",
+      "samsung a54",
+      "samsung"
     ]
   },
   {
@@ -269,13 +269,27 @@
   },
   {
     "folder": "testpoint",
+    "filename": "Oppo__A57__CPH2387.jpg",
+    "brand": "Oppo",
+    "model": "A57",
+    "code": "CPH2387",
+    "keywords": [
+      "oppo a57",
+      "cph2387",
+      "oppo",
+      "a57 cph2387",
+      "a57"
+    ]
+  },
+  {
+    "folder": "testpoint",
     "filename": "mojito.jpg",
     "brand": "mojito",
     "model": "",
     "code": "",
     "keywords": [
-      "mojito ",
       " ",
+      "mojito ",
       "mojito"
     ]
   },
@@ -286,21 +300,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "xt2421-14",
       " ",
+      "xt2421-14",
       "xt2421-14 "
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "CPH2387.jpg",
-    "brand": "CPH2387",
-    "model": "",
-    "code": "",
-    "keywords": [
-      "cph2387",
-      "cph2387 ",
-      " "
     ]
   },
   {
@@ -311,10 +313,10 @@
     "code": "A135F",
     "keywords": [
       "a13",
-      "samsung a13",
-      "a135f",
       "a13 a135f",
-      "samsung"
+      "a135f",
+      "samsung",
+      "samsung a13"
     ]
   },
   {
@@ -324,11 +326,11 @@
     "model": "A77",
     "code": "CPH2385",
     "keywords": [
-      "cph2385",
+      "oppo a77",
       "a77",
-      "oppo",
+      "cph2385",
       "a77 cph2385",
-      "oppo a77"
+      "oppo"
     ]
   },
   {
@@ -338,9 +340,9 @@
     "model": "",
     "code": "",
     "keywords": [
-      "a325f ",
       "a325f",
-      " "
+      " ",
+      "a325f "
     ]
   },
   {
@@ -350,10 +352,10 @@
     "model": "Reno8 T 4G",
     "code": "CPH2481",
     "keywords": [
-      "reno8 t 4g",
-      "cph2481",
-      "oppo",
       "reno8 t 4g cph2481",
+      "cph2481",
+      "reno8 t 4g",
+      "oppo",
       "oppo reno8 t 4g"
     ]
   },
@@ -365,10 +367,10 @@
     "code": "CPH2239",
     "keywords": [
       "cph2239",
+      "a54 cph2239",
       "a54",
       "oppo a54",
-      "oppo",
-      "a54 cph2239"
+      "oppo"
     ]
   },
   {
@@ -378,8 +380,8 @@
     "model": "",
     "code": "",
     "keywords": [
-      "a125f",
       "a125f ",
+      "a125f",
       " "
     ]
   }
