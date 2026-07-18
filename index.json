@@ -1,34 +1,6 @@
 [
   {
     "folder": "isp",
-    "filename": "Samsung__A12__A127F.webp",
-    "brand": "Samsung",
-    "model": "A12",
-    "code": "A127F",
-    "keywords": [
-      "samsung a12",
-      "a12 a127f",
-      "a127f",
-      "samsung",
-      "a12"
-    ]
-  },
-  {
-    "folder": "isp",
-    "filename": "Vivo__Y29 5G__PD2421F.jpg",
-    "brand": "Vivo",
-    "model": "Y29 5G",
-    "code": "PD2421F",
-    "keywords": [
-      "pd2421f",
-      "vivo",
-      "vivo y29 5g",
-      "y29 5g",
-      "y29 5g pd2421f"
-    ]
-  },
-  {
-    "folder": "isp",
     "filename": "Honor__X8d__ABR-LX1.jpg",
     "brand": "Honor",
     "model": "X8d",
@@ -43,30 +15,58 @@
   },
   {
     "folder": "isp",
-    "filename": "Oppo__A5 4G__CPH2727.jpg",
-    "brand": "Oppo",
-    "model": "A5 4G",
-    "code": "CPH2727",
+    "filename": "Vivo__X200 FE__PD2465.jpg",
+    "brand": "Vivo",
+    "model": "X200 FE",
+    "code": "PD2465",
     "keywords": [
-      "cph2727",
-      "a5 4g",
-      "oppo a5 4g",
-      "a5 4g cph2727",
-      "oppo"
+      "x200 fe pd2465",
+      "pd2465",
+      "x200 fe",
+      "vivo",
+      "vivo x200 fe"
     ]
   },
   {
     "folder": "isp",
-    "filename": "Huawei__NOVA 13__BLK-LX9.jpg",
-    "brand": "Huawei",
-    "model": "NOVA 13",
-    "code": "BLK-LX9",
+    "filename": "CPU DRILL__MT6789V__PIC1.jpg",
+    "brand": "CPU DRILL",
+    "model": "MT6789V",
+    "code": "PIC1",
     "keywords": [
-      "huawei",
-      "nova 13 blk-lx9",
-      "huawei nova 13",
-      "blk-lx9",
-      "nova 13"
+      "pic1",
+      "cpu drill",
+      "mt6789v",
+      "mt6789v pic1",
+      "cpu drill mt6789v"
+    ]
+  },
+  {
+    "folder": "isp",
+    "filename": "Realme__15x 5G__RMX5250.jpg",
+    "brand": "Realme",
+    "model": "15x 5G",
+    "code": "RMX5250",
+    "keywords": [
+      "15x 5g",
+      "realme 15x 5g",
+      "15x 5g rmx5250",
+      "realme",
+      "rmx5250"
+    ]
+  },
+  {
+    "folder": "isp",
+    "filename": "Samsung__S26 Ultra__S946B.jpg",
+    "brand": "Samsung",
+    "model": "S26 Ultra",
+    "code": "S946B",
+    "keywords": [
+      "s26 ultra",
+      "s946b",
+      "samsung s26 ultra",
+      "samsung",
+      "s26 ultra s946b"
     ]
   },
   {
@@ -77,94 +77,38 @@
     "code": "PD2541F",
     "keywords": [
       "vivo",
-      "vivo y05",
-      "pd2541f",
       "y05",
-      "y05 pd2541f"
+      "y05 pd2541f",
+      "pd2541f",
+      "vivo y05"
     ]
   },
   {
     "folder": "isp",
-    "filename": "Oppo__A5 5G__CPH2693.jpg",
-    "brand": "Oppo",
-    "model": "A5 5G",
-    "code": "CPH2693",
-    "keywords": [
-      "oppo",
-      "cph2693",
-      "a5 5g",
-      "oppo a5 5g",
-      "a5 5g cph2693"
-    ]
-  },
-  {
-    "folder": "isp",
-    "filename": "CPU DRILL__MT6789V__PIC1.jpg",
-    "brand": "CPU DRILL",
-    "model": "MT6789V",
-    "code": "PIC1",
-    "keywords": [
-      "cpu drill mt6789v",
-      "pic1",
-      "mt6789v pic1",
-      "cpu drill",
-      "mt6789v"
-    ]
-  },
-  {
-    "folder": "isp",
-    "filename": "Vivo__X200 FE__PD2465.jpg",
-    "brand": "Vivo",
-    "model": "X200 FE",
-    "code": "PD2465",
-    "keywords": [
-      "pd2465",
-      "vivo",
-      "x200 fe",
-      "vivo x200 fe",
-      "x200 fe pd2465"
-    ]
-  },
-  {
-    "folder": "isp",
-    "filename": "Vivo__Y36 4G__PD2280.jpg",
-    "brand": "Vivo",
-    "model": "Y36 4G",
-    "code": "PD2280",
-    "keywords": [
-      "vivo y36 4g",
-      "pd2280",
-      "vivo",
-      "y36 4g pd2280",
-      "y36 4g"
-    ]
-  },
-  {
-    "folder": "isp",
-    "filename": "Samsung__A13__A135F.jpg",
+    "filename": "Samsung__S24 Plus__S926U.jpg",
     "brand": "Samsung",
-    "model": "A13",
-    "code": "A135F",
+    "model": "S24 Plus",
+    "code": "S926U",
     "keywords": [
-      "a13",
+      "s926u",
+      "s24 plus s926u",
+      "s24 plus",
       "samsung",
-      "a135f",
-      "a13 a135f",
-      "samsung a13"
+      "samsung s24 plus"
     ]
   },
   {
     "folder": "isp",
-    "filename": "Samsung__A06__A065F.jpg",
-    "brand": "Samsung",
-    "model": "A06",
-    "code": "A065F",
+    "filename": "Vivo__Y29 5G__PD2421F.jpg",
+    "brand": "Vivo",
+    "model": "Y29 5G",
+    "code": "PD2421F",
     "keywords": [
-      "samsung a06",
-      "a065f",
-      "a06 a065f",
-      "samsung",
-      "a06"
+      "y29 5g pd2421f",
+      "y29 5g",
+      "pd2421f",
+      "vivo",
+      "vivo y29 5g"
     ]
   },
   {
@@ -176,23 +120,79 @@
     "keywords": [
       "s901n",
       "s22 5g s901n",
-      "samsung s22 5g",
       "samsung",
-      "s22 5g"
+      "s22 5g",
+      "samsung s22 5g"
     ]
   },
   {
     "folder": "isp",
-    "filename": "Samsung__S24 Plus__S926U.jpg",
-    "brand": "Samsung",
-    "model": "S24 Plus",
-    "code": "S926U",
+    "filename": "Vivo__Y36 4G__PD2280.jpg",
+    "brand": "Vivo",
+    "model": "Y36 4G",
+    "code": "PD2280",
     "keywords": [
-      "s24 plus s926u",
-      "samsung s24 plus",
-      "s24 plus",
+      "pd2280",
+      "y36 4g pd2280",
+      "y36 4g",
+      "vivo y36 4g",
+      "vivo"
+    ]
+  },
+  {
+    "folder": "isp",
+    "filename": "Oppo__A5 4G__CPH2727.jpg",
+    "brand": "Oppo",
+    "model": "A5 4G",
+    "code": "CPH2727",
+    "keywords": [
+      "cph2727",
+      "oppo",
+      "oppo a5 4g",
+      "a5 4g",
+      "a5 4g cph2727"
+    ]
+  },
+  {
+    "folder": "isp",
+    "filename": "Samsung__A06__A065F.jpg",
+    "brand": "Samsung",
+    "model": "A06",
+    "code": "A065F",
+    "keywords": [
+      "a065f",
+      "a06 a065f",
       "samsung",
-      "s926u"
+      "samsung a06",
+      "a06"
+    ]
+  },
+  {
+    "folder": "isp",
+    "filename": "Samsung__A12__A127F.webp",
+    "brand": "Samsung",
+    "model": "A12",
+    "code": "A127F",
+    "keywords": [
+      "a12",
+      "samsung a12",
+      "a12 a127f",
+      "a127f",
+      "samsung"
+    ]
+  },
+  {
+    "folder": "isp",
+    "filename": "Huawei__NOVA 13__BLK-LX9.jpg",
+    "brand": "Huawei",
+    "model": "NOVA 13",
+    "code": "BLK-LX9",
+    "keywords": [
+      "blk-lx9",
+      "huawei",
+      "nova 13 blk-lx9",
+      "huawei nova 13",
+      "nova 13"
     ]
   },
   {
@@ -203,38 +203,24 @@
     "code": "ALIN-NX1",
     "keywords": [
       "x9b",
+      "x9b alin-nx1",
       "honor x9b",
-      "honor",
       "alin-nx1",
-      "x9b alin-nx1"
+      "honor"
     ]
   },
   {
     "folder": "isp",
-    "filename": "Samsung__S26 Ultra__S946B.jpg",
+    "filename": "Samsung__A13__A135F.jpg",
     "brand": "Samsung",
-    "model": "S26 Ultra",
-    "code": "S946B",
+    "model": "A13",
+    "code": "A135F",
     "keywords": [
-      "samsung s26 ultra",
-      "s26 ultra s946b",
-      "s26 ultra",
-      "s946b",
-      "samsung"
-    ]
-  },
-  {
-    "folder": "isp",
-    "filename": "Realme__15x 5G__RMX5250.jpg",
-    "brand": "Realme",
-    "model": "15x 5G",
-    "code": "RMX5250",
-    "keywords": [
-      "15x 5g",
-      "realme",
-      "15x 5g rmx5250",
-      "rmx5250",
-      "realme 15x 5g"
+      "a13 a135f",
+      "samsung a13",
+      "a13",
+      "samsung",
+      "a135f"
     ]
   },
   {
@@ -244,10 +230,24 @@
     "model": "Axon 70 Lite",
     "code": "",
     "keywords": [
-      "zte axon 70 lite",
-      "zte",
+      "axon 70 lite ",
       "axon 70 lite",
-      "axon 70 lite "
+      "zte",
+      "zte axon 70 lite"
+    ]
+  },
+  {
+    "folder": "isp",
+    "filename": "Oppo__A5 5G__CPH2693.jpg",
+    "brand": "Oppo",
+    "model": "A5 5G",
+    "code": "CPH2693",
+    "keywords": [
+      "oppo",
+      "oppo a5 5g",
+      "a5 5g cph2693",
+      "cph2693",
+      "a5 5g"
     ]
   },
   {
@@ -257,123 +257,39 @@
     "model": "Note 11",
     "code": "Spes&Spesn",
     "keywords": [
-      "spes&spesn",
       "note 11",
       "redmi",
-      "note 11 spes&spesn",
-      "redmi note 11"
+      "spes&spesn",
+      "redmi note 11",
+      "note 11 spes&spesn"
     ]
   },
   {
-    "folder": "testpoint",
-    "filename": "Samsung__A04s__A047F M.jpg",
-    "brand": "Samsung",
-    "model": "A04s",
-    "code": "A047F M",
-    "keywords": [
-      "a047f m",
-      "a04s",
-      "samsung",
-      "samsung a04s",
-      "a04s a047f m"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Redmi__Note 13 Pro 5G__Garnet.jpg",
+    "folder": "rsa",
+    "filename": "Redmi__Note 13 4G__sapphire.jpg",
     "brand": "Redmi",
-    "model": "Note 13 Pro 5G",
-    "code": "Garnet",
+    "model": "Note 13 4G",
+    "code": "sapphire",
     "keywords": [
+      "note 13 4g",
       "redmi",
-      "redmi note 13 pro 5g",
-      "garnet",
-      "note 13 pro 5g garnet",
-      "note 13 pro 5g"
+      "sapphire",
+      "redmi note 13 4g",
+      "note 13 4g sapphire"
     ]
   },
   {
     "folder": "testpoint",
-    "filename": "Samsung__A01__A015G.jpg",
+    "filename": "Samsung__A51 5G__A516B.png",
     "brand": "Samsung",
-    "model": "A01",
-    "code": "A015G",
+    "model": "A51 5G",
+    "code": "A516B",
     "keywords": [
-      "a01 a015g",
-      "a01",
+      "a51 5g",
+      "a51 5g a516b",
+      "samsung a51 5g",
       "samsung",
-      "samsung a01",
-      "a015g"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Oppo__A78 5G__CPH2495.jpg",
-    "brand": "Oppo",
-    "model": "A78 5G",
-    "code": "CPH2495",
-    "keywords": [
-      "a78 5g",
-      "a78 5g cph2495",
-      "cph2495",
-      "oppo a78 5g",
-      "oppo"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Vivo__Y300 Plus__PD2422F.jpg",
-    "brand": "Vivo",
-    "model": "Y300 Plus",
-    "code": "PD2422F",
-    "keywords": [
-      "pd2422f",
-      "y300 plus pd2422f",
-      "vivo y300 plus",
-      "y300 plus",
-      "vivo"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A02s__A025U.jpg",
-    "brand": "Samsung",
-    "model": "A02s",
-    "code": "A025U",
-    "keywords": [
-      "a025u",
-      "samsung a02s",
-      "a02s",
-      "samsung",
-      "a02s a025u"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A05s__A057F M G.png",
-    "brand": "Samsung",
-    "model": "A05s",
-    "code": "A057F M G",
-    "keywords": [
-      "a05s",
-      "a05s a057f m g",
-      "a057f m g",
-      "samsung",
-      "samsung a05s"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Honor__50 5G__NTH-NX9.jpg",
-    "brand": "Honor",
-    "model": "50 5G",
-    "code": "NTH-NX9",
-    "keywords": [
-      "nth-nx9",
-      "50 5g nth-nx9",
-      "50 5g",
-      "honor",
-      "honor 50 5g"
+      "a516b"
     ]
   },
   {
@@ -383,39 +299,11 @@
     "model": "A25 5G",
     "code": "A256 All",
     "keywords": [
-      "a25 5g",
+      "a25 5g a256 all",
+      "samsung",
       "a256 all",
-      "samsung",
-      "samsung a25 5g",
-      "a25 5g a256 all"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A54__A546B.jpg",
-    "brand": "Samsung",
-    "model": "A54",
-    "code": "A546B",
-    "keywords": [
-      "samsung a54",
-      "samsung",
-      "a546b",
-      "a54",
-      "a54 a546b"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A22 5G__A226B.png",
-    "brand": "Samsung",
-    "model": "A22 5G",
-    "code": "A226B",
-    "keywords": [
-      "a22 5g a226b",
-      "a226b",
-      "a22 5g",
-      "samsung a22 5g",
-      "samsung"
+      "a25 5g",
+      "samsung a25 5g"
     ]
   },
   {
@@ -425,95 +313,53 @@
     "model": "A11",
     "code": "A115A W U",
     "keywords": [
+      "a11 a115a w u",
+      "a115a w u",
       "samsung a11",
       "a11",
-      "a11 a115a w u",
-      "samsung",
-      "a115a w u"
+      "samsung"
     ]
   },
   {
     "folder": "testpoint",
-    "filename": "Samsung__A17 5G__A176B O.png",
+    "filename": "Samsung__A42 5G__A426B.png",
     "brand": "Samsung",
-    "model": "A17 5G",
-    "code": "A176B O",
+    "model": "A42 5G",
+    "code": "A426B",
     "keywords": [
-      "a176b o",
-      "a17 5g a176b o",
+      "a42 5g",
+      "a426b",
       "samsung",
-      "a17 5g",
-      "samsung a17 5g"
+      "a42 5g a426b",
+      "samsung a42 5g"
     ]
   },
   {
     "folder": "testpoint",
-    "filename": "Samsung__A02s__A025A.jpg",
-    "brand": "Samsung",
-    "model": "A02s",
-    "code": "A025A",
-    "keywords": [
-      "samsung a02s",
-      "a02s",
-      "a02s a025a",
-      "samsung",
-      "a025a"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A20s__A207F M.png",
-    "brand": "Samsung",
-    "model": "A20s",
-    "code": "A207F M",
-    "keywords": [
-      "a20s a207f m",
-      "a207f m",
-      "a20s",
-      "samsung",
-      "samsung a20s"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A23 5G__A236 All.png",
-    "brand": "Samsung",
-    "model": "A23 5G",
-    "code": "A236 All",
-    "keywords": [
-      "samsung a23 5g",
-      "a23 5g a236 all",
-      "samsung",
-      "a23 5g",
-      "a236 all"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A03s__S134DL.jpg",
-    "brand": "Samsung",
-    "model": "A03s",
-    "code": "S134DL",
-    "keywords": [
-      "a03s",
-      "a03s s134dl",
-      "samsung",
-      "samsung a03s",
-      "s134dl"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Oppo__A57__CPH2387.jpg",
+    "filename": "Oppo__A77__CPH2385.jpg",
     "brand": "Oppo",
-    "model": "A57",
-    "code": "CPH2387",
+    "model": "A77",
+    "code": "CPH2385",
     "keywords": [
-      "a57",
-      "oppo a57",
-      "a57 cph2387",
-      "cph2387",
-      "oppo"
+      "cph2385",
+      "oppo a77",
+      "a77 cph2385",
+      "oppo",
+      "a77"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A14__A145 All.png",
+    "brand": "Samsung",
+    "model": "A14",
+    "code": "A145 All",
+    "keywords": [
+      "samsung a14",
+      "samsung",
+      "a145 all",
+      "a14",
+      "a14 a145 all"
     ]
   },
   {
@@ -524,178 +370,10 @@
     "code": "A135 All & A137 All",
     "keywords": [
       "a135 all & a137 all",
+      "samsung a13",
       "a13",
       "samsung",
-      "a13 a135 all & a137 all",
-      "samsung a13"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A52__A525 All & A526B.png",
-    "brand": "Samsung",
-    "model": "A52",
-    "code": "A525 All & A526B",
-    "keywords": [
-      "samsung a52",
-      "a52",
-      "a52 a525 all & a526b",
-      "samsung",
-      "a525 all & a526b"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Huawei__Y70__MGA-L××.jpg",
-    "brand": "Huawei",
-    "model": "Y70",
-    "code": "MGA-L××",
-    "keywords": [
-      "mga-l××",
-      "huawei",
-      "huawei y70",
-      "y70 mga-l××",
-      "y70"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A14__A145 All.png",
-    "brand": "Samsung",
-    "model": "A14",
-    "code": "A145 All",
-    "keywords": [
-      "a14 a145 all",
-      "samsung",
-      "a14",
-      "samsung a14",
-      "a145 all"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A42 5G__A426U O.png",
-    "brand": "Samsung",
-    "model": "A42 5G",
-    "code": "A426U O",
-    "keywords": [
-      "a42 5g",
-      "a426u o",
-      "samsung",
-      "samsung a42 5g",
-      "a42 5g a426u o"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A32__A325F.jpg",
-    "brand": "Samsung",
-    "model": "A32",
-    "code": "A325F",
-    "keywords": [
-      "samsung a32",
-      "samsung",
-      "a32",
-      "a325f",
-      "a32 a325f"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Oppo__A77__CPH2385.jpg",
-    "brand": "Oppo",
-    "model": "A77",
-    "code": "CPH2385",
-    "keywords": [
-      "a77 cph2385",
-      "oppo a77",
-      "cph2385",
-      "a77",
-      "oppo"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A12__A125 All & A127 All.jpg",
-    "brand": "Samsung",
-    "model": "A12",
-    "code": "A125 All & A127 All",
-    "keywords": [
-      "samsung a12",
-      "a125 all & a127 all",
-      "a12 a125 all & a127 all",
-      "samsung",
-      "a12"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A03__A035M.jpg",
-    "brand": "Samsung",
-    "model": "A03",
-    "code": "A035M",
-    "keywords": [
-      "a035m",
-      "samsung a03",
-      "a03 a035m",
-      "a03",
-      "samsung"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A03__A035G.jpg",
-    "brand": "Samsung",
-    "model": "A03",
-    "code": "A035G",
-    "keywords": [
-      "a035g",
-      "samsung a03",
-      "a03",
-      "samsung",
-      "a03 a035g"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A11__A115F M.png",
-    "brand": "Samsung",
-    "model": "A11",
-    "code": "A115F M",
-    "keywords": [
-      "a115f m",
-      "samsung a11",
-      "a11",
-      "a11 a115f m",
-      "samsung"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A11__S115DL.png",
-    "brand": "Samsung",
-    "model": "A11",
-    "code": "S115DL",
-    "keywords": [
-      "samsung a11",
-      "a11",
-      "s115dl",
-      "samsung",
-      "a11 s115dl"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Motorola__Moto G04__XT2421.jpg",
-    "brand": "Motorola",
-    "model": "Moto G04",
-    "code": "XT2421",
-    "keywords": [
-      "motorola moto g04",
-      "moto g04 xt2421",
-      "moto g04",
-      "xt2421",
-      "motorola"
+      "a13 a135 all & a137 all"
     ]
   },
   {
@@ -707,163 +385,23 @@
     "keywords": [
       "s10e g970u",
       "g970u",
-      "s10e",
+      "samsung s10e",
       "samsung",
-      "samsung s10e"
+      "s10e"
     ]
   },
   {
     "folder": "testpoint",
-    "filename": "Samsung__A15__A155F M.png",
-    "brand": "Samsung",
-    "model": "A15",
-    "code": "A155F M",
+    "filename": "Honor__50 5G__NTH-NX9.jpg",
+    "brand": "Honor",
+    "model": "50 5G",
+    "code": "NTH-NX9",
     "keywords": [
-      "samsung a15",
-      "a155f m",
-      "a15 a155f m",
-      "samsung",
-      "a15"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A02s__A025F.jpg",
-    "brand": "Samsung",
-    "model": "A02s",
-    "code": "A025F",
-    "keywords": [
-      "a02s a025f",
-      "a025f",
-      "samsung a02s",
-      "a02s",
-      "samsung"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A21s__A217F M N.png",
-    "brand": "Samsung",
-    "model": "A21s",
-    "code": "A217F M N",
-    "keywords": [
-      "a217f m n",
-      "samsung a21s",
-      "a21s",
-      "samsung",
-      "a21s a217f m n"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A03 Core__A032F.jpg",
-    "brand": "Samsung",
-    "model": "A03 Core",
-    "code": "A032F",
-    "keywords": [
-      "a032f",
-      "a03 core a032f",
-      "a03 core",
-      "samsung",
-      "samsung a03 core"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A02s__A025M.jpg",
-    "brand": "Samsung",
-    "model": "A02s",
-    "code": "A025M",
-    "keywords": [
-      "samsung a02s",
-      "a02s",
-      "a02s a025m",
-      "samsung",
-      "a025m"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Oppo__Reno 8T 4G__CPH2481.jpg",
-    "brand": "Oppo",
-    "model": "Reno 8T 4G",
-    "code": "CPH2481",
-    "keywords": [
-      "reno 8t 4g cph2481",
-      "oppo reno 8t 4g",
-      "cph2481",
-      "reno 8t 4g",
-      "oppo"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A23 4G__A235F M.png",
-    "brand": "Samsung",
-    "model": "A23 4G",
-    "code": "A235F M",
-    "keywords": [
-      "a23 4g a235f m",
-      "a235f m",
-      "a23 4g",
-      "samsung a23 4g",
-      "samsung"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A51 5G__A516B.png",
-    "brand": "Samsung",
-    "model": "A51 5G",
-    "code": "A516B",
-    "keywords": [
-      "samsung a51 5g",
-      "a51 5g a516b",
-      "a516b",
-      "samsung",
-      "a51 5g"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Huawei__P50E__ABR-AL××.jpg",
-    "brand": "Huawei",
-    "model": "P50E",
-    "code": "ABR-AL××",
-    "keywords": [
-      "p50e abr-al××",
-      "huawei p50e",
-      "huawei",
-      "p50e",
-      "abr-al××"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A42 5G__A426B.png",
-    "brand": "Samsung",
-    "model": "A42 5G",
-    "code": "A426B",
-    "keywords": [
-      "a42 5g a426b",
-      "a42 5g",
-      "a426b",
-      "samsung",
-      "samsung a42 5g"
-    ]
-  },
-  {
-    "folder": "testpoint",
-    "filename": "Samsung__A05__A055F.jpg",
-    "brand": "Samsung",
-    "model": "A05",
-    "code": "A055F",
-    "keywords": [
-      "a05 a055f",
-      "a055f",
-      "samsung",
-      "a05",
-      "samsung a05"
+      "50 5g nth-nx9",
+      "nth-nx9",
+      "honor 50 5g",
+      "50 5g",
+      "honor"
     ]
   },
   {
@@ -882,16 +420,44 @@
   },
   {
     "folder": "testpoint",
-    "filename": "Redmi__Note 8__Ginkgo.jpg",
-    "brand": "Redmi",
-    "model": "Note 8",
-    "code": "Ginkgo",
+    "filename": "Samsung__A32__A325F.jpg",
+    "brand": "Samsung",
+    "model": "A32",
+    "code": "A325F",
     "keywords": [
-      "note 8",
-      "redmi note 8",
-      "redmi",
-      "note 8 ginkgo",
-      "ginkgo"
+      "a32",
+      "samsung a32",
+      "a325f",
+      "samsung",
+      "a32 a325f"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Oppo__Reno 8T 4G__CPH2481.jpg",
+    "brand": "Oppo",
+    "model": "Reno 8T 4G",
+    "code": "CPH2481",
+    "keywords": [
+      "cph2481",
+      "oppo reno 8t 4g",
+      "oppo",
+      "reno 8t 4g cph2481",
+      "reno 8t 4g"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A02s__A025M.jpg",
+    "brand": "Samsung",
+    "model": "A02s",
+    "code": "A025M",
+    "keywords": [
+      "samsung a02s",
+      "a02s a025m",
+      "samsung",
+      "a02s",
+      "a025m"
     ]
   },
   {
@@ -901,25 +467,263 @@
     "model": "A54",
     "code": "CPH2239",
     "keywords": [
-      "oppo a54",
+      "oppo",
       "a54 cph2239",
       "cph2239",
       "a54",
-      "oppo"
+      "oppo a54"
     ]
   },
   {
     "folder": "testpoint",
-    "filename": "Samsung__A22 5G__A226L.png",
+    "filename": "Samsung__A04s__A047F M.jpg",
+    "brand": "Samsung",
+    "model": "A04s",
+    "code": "A047F M",
+    "keywords": [
+      "a04s",
+      "a047f m",
+      "a04s a047f m",
+      "samsung",
+      "samsung a04s"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A23 4G__A235F M.png",
+    "brand": "Samsung",
+    "model": "A23 4G",
+    "code": "A235F M",
+    "keywords": [
+      "a235f m",
+      "a23 4g",
+      "a23 4g a235f m",
+      "samsung",
+      "samsung a23 4g"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A17 5G__A176B O.png",
+    "brand": "Samsung",
+    "model": "A17 5G",
+    "code": "A176B O",
+    "keywords": [
+      "a17 5g a176b o",
+      "a176b o",
+      "samsung a17 5g",
+      "a17 5g",
+      "samsung"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A11__S115DL.png",
+    "brand": "Samsung",
+    "model": "A11",
+    "code": "S115DL",
+    "keywords": [
+      "a11 s115dl",
+      "samsung a11",
+      "a11",
+      "s115dl",
+      "samsung"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A03s__S134DL.jpg",
+    "brand": "Samsung",
+    "model": "A03s",
+    "code": "S134DL",
+    "keywords": [
+      "s134dl",
+      "a03s",
+      "a03s s134dl",
+      "samsung",
+      "samsung a03s"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A02s__A025A.jpg",
+    "brand": "Samsung",
+    "model": "A02s",
+    "code": "A025A",
+    "keywords": [
+      "a02s a025a",
+      "samsung a02s",
+      "a025a",
+      "samsung",
+      "a02s"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A52__A525 All & A526B.png",
+    "brand": "Samsung",
+    "model": "A52",
+    "code": "A525 All & A526B",
+    "keywords": [
+      "samsung a52",
+      "a52",
+      "a52 a525 all & a526b",
+      "a525 all & a526b",
+      "samsung"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A11__A115F M.png",
+    "brand": "Samsung",
+    "model": "A11",
+    "code": "A115F M",
+    "keywords": [
+      "samsung a11",
+      "a11",
+      "samsung",
+      "a11 a115f m",
+      "a115f m"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A02s__A025F.jpg",
+    "brand": "Samsung",
+    "model": "A02s",
+    "code": "A025F",
+    "keywords": [
+      "samsung a02s",
+      "a025f",
+      "a02s a025f",
+      "samsung",
+      "a02s"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A22 5G__A226B.png",
     "brand": "Samsung",
     "model": "A22 5G",
-    "code": "A226L",
+    "code": "A226B",
     "keywords": [
-      "a22 5g a226l",
-      "a226l",
+      "a22 5g a226b",
+      "a226b",
       "a22 5g",
-      "samsung a22 5g",
+      "samsung",
+      "samsung a22 5g"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A05__A055F.jpg",
+    "brand": "Samsung",
+    "model": "A05",
+    "code": "A055F",
+    "keywords": [
+      "a05 a055f",
+      "samsung",
+      "samsung a05",
+      "a05",
+      "a055f"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A03 Core__A032F.jpg",
+    "brand": "Samsung",
+    "model": "A03 Core",
+    "code": "A032F",
+    "keywords": [
+      "a03 core a032f",
+      "a032f",
+      "a03 core",
+      "samsung",
+      "samsung a03 core"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A42 5G__A426U O.png",
+    "brand": "Samsung",
+    "model": "A42 5G",
+    "code": "A426U O",
+    "keywords": [
+      "a42 5g",
+      "a426u o",
+      "a42 5g a426u o",
+      "samsung",
+      "samsung a42 5g"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A02s__A025U.jpg",
+    "brand": "Samsung",
+    "model": "A02s",
+    "code": "A025U",
+    "keywords": [
+      "samsung a02s",
+      "a025u",
+      "samsung",
+      "a02s",
+      "a02s a025u"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A01__A015G.jpg",
+    "brand": "Samsung",
+    "model": "A01",
+    "code": "A015G",
+    "keywords": [
+      "a015g",
+      "samsung",
+      "a01 a015g",
+      "samsung a01",
+      "a01"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A12__A125 All & A127 All.jpg",
+    "brand": "Samsung",
+    "model": "A12",
+    "code": "A125 All & A127 All",
+    "keywords": [
+      "a12",
+      "a125 all & a127 all",
+      "samsung a12",
+      "a12 a125 all & a127 all",
       "samsung"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A03__A035M.jpg",
+    "brand": "Samsung",
+    "model": "A03",
+    "code": "A035M",
+    "keywords": [
+      "a035m",
+      "a03 a035m",
+      "a03",
+      "samsung",
+      "samsung a03"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A21s__A217F M N.png",
+    "brand": "Samsung",
+    "model": "A21s",
+    "code": "A217F M N",
+    "keywords": [
+      "a21s a217f m n",
+      "a21s",
+      "samsung a21s",
+      "samsung",
+      "a217f m n"
     ]
   },
   {
@@ -929,11 +733,221 @@
     "model": "A03",
     "code": "A035F",
     "keywords": [
-      "a03 a035f",
-      "a035f",
-      "samsung a03",
       "a03",
+      "samsung",
+      "samsung a03",
+      "a03 a035f",
+      "a035f"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Vivo__Y300 Plus__PD2422F.jpg",
+    "brand": "Vivo",
+    "model": "Y300 Plus",
+    "code": "PD2422F",
+    "keywords": [
+      "vivo",
+      "y300 plus",
+      "y300 plus pd2422f",
+      "vivo y300 plus",
+      "pd2422f"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Oppo__A57__CPH2387.jpg",
+    "brand": "Oppo",
+    "model": "A57",
+    "code": "CPH2387",
+    "keywords": [
+      "cph2387",
+      "a57 cph2387",
+      "a57",
+      "oppo",
+      "oppo a57"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Huawei__P50E__ABR-AL××.jpg",
+    "brand": "Huawei",
+    "model": "P50E",
+    "code": "ABR-AL××",
+    "keywords": [
+      "p50e",
+      "huawei",
+      "abr-al××",
+      "huawei p50e",
+      "p50e abr-al××"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A05s__A057F M G.png",
+    "brand": "Samsung",
+    "model": "A05s",
+    "code": "A057F M G",
+    "keywords": [
+      "a057f m g",
+      "samsung a05s",
+      "a05s a057f m g",
+      "a05s",
       "samsung"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Redmi__Note 8__Ginkgo.jpg",
+    "brand": "Redmi",
+    "model": "Note 8",
+    "code": "Ginkgo",
+    "keywords": [
+      "note 8",
+      "redmi",
+      "ginkgo",
+      "redmi note 8",
+      "note 8 ginkgo"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Motorola__Moto G04__XT2421.jpg",
+    "brand": "Motorola",
+    "model": "Moto G04",
+    "code": "XT2421",
+    "keywords": [
+      "xt2421",
+      "moto g04",
+      "moto g04 xt2421",
+      "motorola moto g04",
+      "motorola"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A20s__A207F M.png",
+    "brand": "Samsung",
+    "model": "A20s",
+    "code": "A207F M",
+    "keywords": [
+      "samsung a20s",
+      "a207f m",
+      "a20s a207f m",
+      "a20s",
+      "samsung"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A03__A035G.jpg",
+    "brand": "Samsung",
+    "model": "A03",
+    "code": "A035G",
+    "keywords": [
+      "a035g",
+      "a03 a035g",
+      "a03",
+      "samsung",
+      "samsung a03"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A15__A155F M.png",
+    "brand": "Samsung",
+    "model": "A15",
+    "code": "A155F M",
+    "keywords": [
+      "a155f m",
+      "a15 a155f m",
+      "samsung a15",
+      "samsung",
+      "a15"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A23 5G__A236 All.png",
+    "brand": "Samsung",
+    "model": "A23 5G",
+    "code": "A236 All",
+    "keywords": [
+      "a23 5g a236 all",
+      "samsung a23 5g",
+      "a236 all",
+      "samsung",
+      "a23 5g"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A22 5G__A226L.png",
+    "brand": "Samsung",
+    "model": "A22 5G",
+    "code": "A226L",
+    "keywords": [
+      "a22 5g",
+      "samsung",
+      "a22 5g a226l",
+      "samsung a22 5g",
+      "a226l"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Oppo__A78 5G__CPH2495.jpg",
+    "brand": "Oppo",
+    "model": "A78 5G",
+    "code": "CPH2495",
+    "keywords": [
+      "a78 5g",
+      "a78 5g cph2495",
+      "oppo",
+      "oppo a78 5g",
+      "cph2495"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Samsung__A54__A546B.jpg",
+    "brand": "Samsung",
+    "model": "A54",
+    "code": "A546B",
+    "keywords": [
+      "a54 a546b",
+      "samsung a54",
+      "a546b",
+      "samsung",
+      "a54"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Huawei__Y70__MGA-L××.jpg",
+    "brand": "Huawei",
+    "model": "Y70",
+    "code": "MGA-L××",
+    "keywords": [
+      "y70",
+      "y70 mga-l××",
+      "huawei",
+      "mga-l××",
+      "huawei y70"
+    ]
+  },
+  {
+    "folder": "testpoint",
+    "filename": "Redmi__Note 13 Pro 5G__Garnet.jpg",
+    "brand": "Redmi",
+    "model": "Note 13 Pro 5G",
+    "code": "Garnet",
+    "keywords": [
+      "redmi note 13 pro 5g",
+      "note 13 pro 5g garnet",
+      "redmi",
+      "note 13 pro 5g",
+      "garnet"
     ]
   }
 ]
